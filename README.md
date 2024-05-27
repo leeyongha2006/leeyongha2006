@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+Lee+Yong+Ha+GitHub!👋)](https://git.io/typing-svg)
 
+<img src="https://github.com/leeyongha2006/leeyongha2006/blob/output/github-contribution-grid-snake.svg"/>
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -20,4 +22,7 @@
  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   
-<img src="https://github.com/leeyongha2006/leeyongha2006/blob/output/github-contribution-grid-snake.svg"/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyongha2006&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
