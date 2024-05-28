@@ -22,12 +22,11 @@
  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   
+<div align=center><h1>  :clipboard: STATS</h1></div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyongha2006&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-| 제목  | 설명 |
-| ---- | ---- |
-| 이름 | 이용하 |
-| 메일 | Email : haiyong588@gmail.com |
-| 연락처 | 010-4592-9817 |
+<a href="https://github.com/leeyongha2006/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leeyongha2006&rank_icon=github" />
+</a>
+<a href="https://github.com/leeyongha2006/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leeyongha2006&layout=compact&langs_count=8&card_width=320" />
+</a>
