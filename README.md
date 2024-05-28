@@ -25,8 +25,8 @@
 <div align=center><h1>  :clipboard: STATS</h1></div>
 
 <a href="https://github.com/leeyongha2006/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=leeyongha2006&rank_icon=github" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=leeyongha2006&rank_icon=github" />
 </a>
 <a href="https://github.com/leeyongha2006/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leeyongha2006&layout=compact&langs_count=8&card_width=320" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leeyongha2006&layout=compact&langs_count=8&card_width=320" />
 </a>
