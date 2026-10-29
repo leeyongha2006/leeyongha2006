@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="848" height="204" viewBox="0 0 848 204" role="img" aria-label="고3 때 개발자로 입사해 학교보다 현장에서 먼저 개발을 배웠습니다. 지금은 기업이 실제로 쓰는 시스템을 만들며 일학습병행으로 일과 공부를 함께하고 있습니다. 회사 밖에서는 직접 서비스를 기획하고 만들어 보며 아이디어를 제품으로 만드는 경험을 쌓고 있습니다.">
+<style>
+  .no { font: 800 13px Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', 'Segoe UI', sans-serif; fill: #0176D3; }
+  .t { font: 800 20px Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', 'Segoe UI', sans-serif; fill: #1f2328; letter-spacing: -.3px; }
+  .d { font: 500 14.5px Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', 'Segoe UI', sans-serif; fill: #59636e; }
+</style>
+<g transform="translate(0.5 0)"><rect x=".5" y=".5" width="272" height="203" rx="16" fill="#ffffff" stroke="#d0d7de"/><rect x="22" y="22" width="40" height="26" rx="8" fill="#e8f4fc"/><text x="42" y="40" text-anchor="middle" class="no">01</text><text x="22" y="78" class="t">현장에서 먼저</text><text x="22" y="106" class="d">고3 때 개발자로 입사해,</text><text x="22" y="129" class="d">학교보다 현장에서 먼저</text><text x="22" y="152" class="d">개발을 배웠습니다.</text></g>
+<g transform="translate(288 0)"><rect x=".5" y=".5" width="272" height="203" rx="16" fill="#ffffff" stroke="#d0d7de"/><rect x="22" y="22" width="40" height="26" rx="8" fill="#e8f4fc"/><text x="42" y="40" text-anchor="middle" class="no">02</text><text x="22" y="78" class="t">일과 공부를 함께</text><text x="22" y="106" class="d">기업이 실제로 쓰는 시스템을</text><text x="22" y="129" class="d">만들며, 일학습병행으로</text><text x="22" y="152" class="d">일과 공부를 함께하고 있습니다.</text></g>
+<g transform="translate(575.5 0)"><rect x=".5" y=".5" width="272" height="203" rx="16" fill="#ffffff" stroke="#d0d7de"/><rect x="22" y="22" width="40" height="26" rx="8" fill="#e8f4fc"/><text x="42" y="40" text-anchor="middle" class="no">03</text><text x="22" y="78" class="t">아이디어를 제품으로</text><text x="22" y="106" class="d">회사 밖에서는 직접 서비스를</text><text x="22" y="129" class="d">기획하고 만들어 보며,</text><text x="22" y="152" class="d">아이디어를 제품으로 만드는</text><text x="22" y="175" class="d">경험을 쌓고 있습니다.</text></g>
+</svg>

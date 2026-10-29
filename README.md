@@ -1,27 +1,109 @@
-<a href="https://leeyongha2006.github.io"><img src="assets/hero.svg" width="100%" alt="Salesforce 개발자, 이용하입니다." /></a>
-
 <p align="center">
-  <a href="https://leeyongha2006.github.io"><img src="https://img.shields.io/badge/Portfolio-0E1726?style=for-the-badge&logo=salesforce&logoColor=4CC9F0" /></a>
-  <a href="mailto:haiyong588@gmail.com"><img src="https://img.shields.io/badge/haiyong588@gmail.com-0E1726?style=for-the-badge&logo=gmail&logoColor=4CC9F0" /></a>
-  <img src="https://img.shields.io/badge/010--4592--9817-0E1726?style=for-the-badge&logo=phone&logoColor=4CC9F0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0176D3,100:00A1E0&height=180&section=header&text=Hi,%20I'm%20Yong%20Ha&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Salesforce%20Developer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Hi, I'm Yong Ha - Salesforce Developer" />
 </p>
 
-<br>
+<h2><img src="assets/salesforce-cloud.svg" height="24" alt="" /> 안녕하세요, Salesforce 개발자 이용하입니다.</h2>
 
-### Salesforce
-
-<a href="https://github.com/leeyongha2006/srm-modular-packaging"><img src="assets/project-packaging.svg" width="49%" alt="SRM 모듈 패키징" /></a>
-<a href="https://github.com/leeyongha2006/srm-ai-agent-mcp"><img src="assets/project-agent.svg" width="49%" alt="업무 에이전트와 MCP 서버" /></a>
-<a href="https://github.com/leeyongha2006/salesforce-notification-framework"><img src="assets/project-notification.svg" width="49%" alt="알림 프레임워크 V3" /></a>
-<a href="https://github.com/leeyongha2006/srm-e2e-test-automation"><img src="assets/project-e2e.svg" width="49%" alt="SRM E2E 테스트 자동화" /></a>
-<a href="https://github.com/leeyongha2006/salesforce-board-wiki-package"><img src="assets/project-board.svg" width="49%" alt="게시판, 위키 패키지" /></a>
-
-### Side Projects
-
-<a href="https://github.com/leeyongha2006/shorts-factory"><img src="assets/side-shorts.svg" width="49%" alt="유튜브 쇼츠 자동 제작" /></a>
-<a href="https://github.com/leeyongha2006/choeae-ranking"><img src="assets/side-ranking.svg" width="49%" alt="최애친구 랭킹" /></a>
-<a href="https://github.com/leeyongha2006/Subscription-Management-App"><img src="assets/side-subscription.svg" width="49%" alt="구독 관리 앱" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg" />
+  <img src="assets/intro-light.svg" width="100%" alt="고3 때 개발자로 입사해 학교보다 현장에서 먼저 개발을 배웠습니다. 지금은 기업이 실제로 쓰는 시스템을 만들며 일학습병행으로 일과 공부를 함께하고 있습니다. 회사 밖에서는 직접 서비스를 기획하고 만들어 보며 아이디어를 제품으로 만드는 경험을 쌓고 있습니다." />
+</picture>
 
 <br>
 
-<p align="center"><a href="https://leeyongha2006.github.io"><b>포트폴리오 사이트에서 자세히 보기 →</b></a></p>
+## About Me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg" />
+  <img src="assets/about-light.svg" width="100%" alt="이용하, 2006.11.08, ISFJ, DKBMC Salesforce 개발자, 동서울대학교 일학습병행" />
+</picture>
+
+<br>
+
+## Tech Stack
+
+<p align="center">
+  <img src="assets/salesforce-tile.svg" height="40" alt="Salesforce" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,java,spring,python,postgres,supabase,git,github,vscode,figma,azure&theme=light" height="40" alt="JavaScript, TypeScript, HTML, CSS, React, Java, Spring, Python, PostgreSQL, Supabase, Git, GitHub, VS Code, Figma, Azure" />
+</p>
+
+#### Salesforce
+
+<p><img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MSAzNyc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J00yMC44IDQuM2MxLjYtMS43IDMuOS0yLjcgNi40LTIuNyAzLjMgMCA2LjIgMS44IDcuNyA0LjYgMS4zLS42IDIuOC0uOSA0LjMtLjkgNiAwIDEwLjggNC44IDEwLjggMTAuOHMtNC44IDEwLjgtMTAuOCAxMC44Yy0uNyAwLTEuNS0uMS0yLjItLjItMS40IDIuNC0zLjkgNC02LjkgNC0xLjIgMC0yLjQtLjMtMy40LS44LTEuMyAzLjEtNC40IDUuMi03LjkgNS4yLTMuNyAwLTYuOS0yLjQtOC4xLTUuNy0uNS4xLTEuMS4yLTEuNy4yQzIuNyAyOS42IDAgMjUuNyAwIDIxLjljMC0yLjYgMS40LTQuOSAzLjQtNi4yLS40LTEtLjctMi4xLS43LTMuM0MyLjcgOCA2LjQgNC40IDEwLjkgNC40YzIuNiAwIDUgMS4yIDYuNiAzLjInLz48L3N2Zz4%3D&logoColor=white" alt="Apex" /> <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MSAzNyc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J00yMC44IDQuM2MxLjYtMS43IDMuOS0yLjcgNi40LTIuNyAzLjMgMCA2LjIgMS44IDcuNyA0LjYgMS4zLS42IDIuOC0uOSA0LjMtLjkgNiAwIDEwLjggNC44IDEwLjggMTAuOHMtNC44IDEwLjgtMTAuOCAxMC44Yy0uNyAwLTEuNS0uMS0yLjItLjItMS40IDIuNC0zLjkgNC02LjkgNC0xLjIgMC0yLjQtLjMtMy40LS44LTEuMyAzLjEtNC40IDUuMi03LjkgNS4yLTMuNyAwLTYuOS0yLjQtOC4xLTUuNy0uNS4xLTEuMS4yLTEuNy4yQzIuNyAyOS42IDAgMjUuNyAwIDIxLjljMC0yLjYgMS40LTQuOSAzLjQtNi4yLS40LTEtLjctMi4xLS43LTMuM0MyLjcgOCA2LjQgNC40IDEwLjkgNC40YzIuNiAwIDUgMS4yIDYuNiAzLjInLz48L3N2Zz4%3D&logoColor=white" alt="LWC" /> <img src="https://img.shields.io/badge/Visualforce-00A1E0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MSAzNyc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J00yMC44IDQuM2MxLjYtMS43IDMuOS0yLjcgNi40LTIuNyAzLjMgMCA2LjIgMS44IDcuNyA0LjYgMS4zLS42IDIuOC0uOSA0LjMtLjkgNiAwIDEwLjggNC44IDEwLjggMTAuOHMtNC44IDEwLjgtMTAuOCAxMC44Yy0uNyAwLTEuNS0uMS0yLjItLjItMS40IDIuNC0zLjkgNC02LjkgNC0xLjIgMC0yLjQtLjMtMy40LS44LTEuMyAzLjEtNC40IDUuMi03LjkgNS4yLTMuNyAwLTYuOS0yLjQtOC4xLTUuNy0uNS4xLTEuMS4yLTEuNy4yQzIuNyAyOS42IDAgMjUuNyAwIDIxLjljMC0yLjYgMS40LTQuOSAzLjQtNi4yLS40LTEtLjctMi4xLS43LTMuM0MyLjcgOCA2LjQgNC40IDEwLjkgNC40YzIuNiAwIDUgMS4yIDYuNiAzLjInLz48L3N2Zz4%3D&logoColor=white" alt="Visualforce" /> <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MSAzNyc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J00yMC44IDQuM2MxLjYtMS43IDMuOS0yLjcgNi40LTIuNyAzLjMgMCA2LjIgMS44IDcuNyA0LjYgMS4zLS42IDIuOC0uOSA0LjMtLjkgNiAwIDEwLjggNC44IDEwLjggMTAuOHMtNC44IDEwLjgtMTAuOCAxMC44Yy0uNyAwLTEuNS0uMS0yLjItLjItMS40IDIuNC0zLjkgNC02LjkgNC0xLjIgMC0yLjQtLjMtMy40LS44LTEuMyAzLjEtNC40IDUuMi03LjkgNS4yLTMuNyAwLTYuOS0yLjQtOC4xLTUuNy0uNS4xLTEuMS4yLTEuNy4yQzIuNyAyOS42IDAgMjUuNyAwIDIxLjljMC0yLjYgMS40LTQuOSAzLjQtNi4yLS40LTEtLjctMi4xLS43LTMuM0MyLjcgOCA2LjQgNC40IDEwLjkgNC40YzIuNiAwIDUgMS4yIDYuNiAzLjInLz48L3N2Zz4%3D&logoColor=white" alt="SOQL" /> <img src="https://img.shields.io/badge/Flow-00A1E0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MSAzNyc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J00yMC44IDQuM2MxLjYtMS43IDMuOS0yLjcgNi40LTIuNyAzLjMgMCA2LjIgMS44IDcuNyA0LjYgMS4zLS42IDIuOC0uOSA0LjMtLjkgNiAwIDEwLjggNC44IDEwLjggMTAuOHMtNC44IDEwLjgtMTAuOCAxMC44Yy0uNyAwLTEuNS0uMS0yLjItLjItMS40IDIuNC0zLjkgNC02LjkgNC0xLjIgMC0yLjQtLjMtMy40LS44LTEuMyAzLjEtNC40IDUuMi03LjkgNS4yLTMuNyAwLTYuOS0yLjQtOC4xLTUuNy0uNS4xLTEuMS4yLTEuNy4yQzIuNyAyOS42IDAgMjUuNyAwIDIxLjljMC0yLjYgMS40LTQuOSAzLjQtNi4yLS40LTEtLjctMi4xLS43LTMuM0MyLjcgOCA2LjQgNC40IDEwLjkgNC40YzIuNiAwIDUgMS4yIDYuNiAzLjInLz48L3N2Zz4%3D&logoColor=white" alt="Flow" /><br>
+<img src="https://img.shields.io/badge/2GP_Package-00A1E0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MSAzNyc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J00yMC44IDQuM2MxLjYtMS43IDMuOS0yLjcgNi40LTIuNyAzLjMgMCA2LjIgMS44IDcuNyA0LjYgMS4zLS42IDIuOC0uOSA0LjMtLjkgNiAwIDEwLjggNC44IDEwLjggMTAuOHMtNC44IDEwLjgtMTAuOCAxMC44Yy0uNyAwLTEuNS0uMS0yLjItLjItMS40IDIuNC0zLjkgNC02LjkgNC0xLjIgMC0yLjQtLjMtMy40LS44LTEuMyAzLjEtNC40IDUuMi03LjkgNS4yLTMuNyAwLTYuOS0yLjQtOC4xLTUuNy0uNS4xLTEuMS4yLTEuNy4yQzIuNyAyOS42IDAgMjUuNyAwIDIxLjljMC0yLjYgMS40LTQuOSAzLjQtNi4yLS40LTEtLjctMi4xLS43LTMuM0MyLjcgOCA2LjQgNC40IDEwLjkgNC40YzIuNiAwIDUgMS4yIDYuNiAzLjInLz48L3N2Zz4%3D&logoColor=white" alt="2GP Package" /> <img src="https://img.shields.io/badge/Experience_Cloud-00A1E0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MSAzNyc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J00yMC44IDQuM2MxLjYtMS43IDMuOS0yLjcgNi40LTIuNyAzLjMgMCA2LjIgMS44IDcuNyA0LjYgMS4zLS42IDIuOC0uOSA0LjMtLjkgNiAwIDEwLjggNC44IDEwLjggMTAuOHMtNC44IDEwLjgtMTAuOCAxMC44Yy0uNyAwLTEuNS0uMS0yLjItLjItMS40IDIuNC0zLjkgNC02LjkgNC0xLjIgMC0yLjQtLjMtMy40LS44LTEuMyAzLjEtNC40IDUuMi03LjkgNS4yLTMuNyAwLTYuOS0yLjQtOC4xLTUuNy0uNS4xLTEuMS4yLTEuNy4yQzIuNyAyOS42IDAgMjUuNyAwIDIxLjljMC0yLjYgMS40LTQuOSAzLjQtNi4yLS40LTEtLjctMi4xLS43LTMuM0MyLjcgOCA2LjQgNC40IDEwLjkgNC40YzIuNiAwIDUgMS4yIDYuNiAzLjInLz48L3N2Zz4%3D&logoColor=white" alt="Experience Cloud" /> <img src="https://img.shields.io/badge/Tooling_API-00A1E0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MSAzNyc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J00yMC44IDQuM2MxLjYtMS43IDMuOS0yLjcgNi40LTIuNyAzLjMgMCA2LjIgMS44IDcuNyA0LjYgMS4zLS42IDIuOC0uOSA0LjMtLjkgNiAwIDEwLjggNC44IDEwLjggMTAuOHMtNC44IDEwLjgtMTAuOCAxMC44Yy0uNyAwLTEuNS0uMS0yLjItLjItMS40IDIuNC0zLjkgNC02LjkgNC0xLjIgMC0yLjQtLjMtMy40LS44LTEuMyAzLjEtNC40IDUuMi03LjkgNS4yLTMuNyAwLTYuOS0yLjQtOC4xLTUuNy0uNS4xLTEuMS4yLTEuNy4yQzIuNyAyOS42IDAgMjUuNyAwIDIxLjljMC0yLjYgMS40LTQuOSAzLjQtNi4yLS40LTEtLjctMi4xLS43LTMuM0MyLjcgOCA2LjQgNC40IDEwLjkgNC40YzIuNiAwIDUgMS4yIDYuNiAzLjInLz48L3N2Zz4%3D&logoColor=white" alt="Tooling API" /> <img src="https://img.shields.io/badge/Platform_Event-00A1E0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MSAzNyc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J00yMC44IDQuM2MxLjYtMS43IDMuOS0yLjcgNi40LTIuNyAzLjMgMCA2LjIgMS44IDcuNyA0LjYgMS4zLS42IDIuOC0uOSA0LjMtLjkgNiAwIDEwLjggNC44IDEwLjggMTAuOHMtNC44IDEwLjgtMTAuOCAxMC44Yy0uNyAwLTEuNS0uMS0yLjItLjItMS40IDIuNC0zLjkgNC02LjkgNC0xLjIgMC0yLjQtLjMtMy40LS44LTEuMyAzLjEtNC40IDUuMi03LjkgNS4yLTMuNyAwLTYuOS0yLjQtOC4xLTUuNy0uNS4xLTEuMS4yLTEuNy4yQzIuNyAyOS42IDAgMjUuNyAwIDIxLjljMC0yLjYgMS40LTQuOSAzLjQtNi4yLS40LTEtLjctMi4xLS43LTMuM0MyLjcgOCA2LjQgNC40IDEwLjkgNC40YzIuNiAwIDUgMS4yIDYuNiAzLjInLz48L3N2Zz4%3D&logoColor=white" alt="Platform Event" /> <img src="https://img.shields.io/badge/Salesforce_CLI-00A1E0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MSAzNyc%2BPHBhdGggZmlsbD0nd2hpdGUnIGQ9J00yMC44IDQuM2MxLjYtMS43IDMuOS0yLjcgNi40LTIuNyAzLjMgMCA2LjIgMS44IDcuNyA0LjYgMS4zLS42IDIuOC0uOSA0LjMtLjkgNiAwIDEwLjggNC44IDEwLjggMTAuOHMtNC44IDEwLjgtMTAuOCAxMC44Yy0uNyAwLTEuNS0uMS0yLjItLjItMS40IDIuNC0zLjkgNC02LjkgNC0xLjIgMC0yLjQtLjMtMy40LS44LTEuMyAzLjEtNC40IDUuMi03LjkgNS4yLTMuNyAwLTYuOS0yLjQtOC4xLTUuNy0uNS4xLTEuMS4yLTEuNy4yQzIuNyAyOS42IDAgMjUuNyAwIDIxLjljMC0yLjYgMS40LTQuOSAzLjQtNi4yLS40LTEtLjctMi4xLS43LTMuM0MyLjcgOCA2LjQgNC40IDEwLjkgNC40YzIuNiAwIDUgMS4yIDYuNiAzLjInLz48L3N2Zz4%3D&logoColor=white" alt="Salesforce CLI" /></p>
+
+#### AI
+
+<p><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/GPT-10A37F?style=for-the-badge" alt="GPT" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" /><br>
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge" alt="Azure OpenAI" /> <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge" alt="Azure AI Foundry" /> <img src="https://img.shields.io/badge/Document_Intelligence-0078D4?style=for-the-badge" alt="Document Intelligence" /></p>
+
+#### Frontend
+
+<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" /></p>
+
+#### Backend, DB
+
+<p><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/JSP-E76F00?style=for-the-badge" alt="JSP" /> <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge" alt="JavaFX" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge" alt="Oracle" /> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat" /></p>
+
+#### Tools
+
+<p><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" alt="Playwright" /> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge" alt="PowerShell" /> <img src="https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="ffmpeg" /> <img src="https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge" alt="Remotion" /></p>
+
+<br>
+
+## Core Skills
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg" />
+  <img src="assets/skills-light.svg" width="100%" alt="패키지 설계: 솔루션을 2GP 패키지 16개로 나눠 설계. AI 연동: 업무 에이전트와 MCP 서버를 Apex로 구현. 업무 화면: LWC와 Apex로 화면, 권한, 다국어까지 완성. 품질: PRD 작성, E2E 테스트 207개 자동화." />
+</picture>
+
+<br>
+
+## Salesforce Projects
+
+| 프로젝트 | 한 일 | 기간 |
+|---|---|:---:|
+| [SRM 모듈 패키징](https://github.com/leeyongha2006/srm-modular-packaging) | 구매 관리 솔루션을 2GP 패키지 16개로 분리 | 2026.09⁠–⁠10 |
+| [업무 에이전트와 MCP 서버](https://github.com/leeyongha2006/srm-ai-agent-mcp) | 업무 에이전트와 MCP 서버를 Apex로 구현 | 2026.08⁠–⁠10 |
+| [알림 프레임워크 V3](https://github.com/leeyongha2006/salesforce-notification-framework) | 다국어 발송, 중복 발송 버그 해결, 패키징 | 2026.05⁠–⁠09 |
+| [SRM E2E 테스트 자동화](https://github.com/leeyongha2006/srm-e2e-test-automation) | 10개 업무 모듈 회귀 테스트 207개 통과 | 2026.07 |
+| [리스크 대시보드](https://github.com/leeyongha2006/srm-risk-supply-chain-dashboard) | 임원용 대시보드 3종, 공급망 사각지대 탐지 | 2026.07⁠–⁠08 |
+| [게시판, 위키 패키지](https://github.com/leeyongha2006/salesforce-board-wiki-package) | 2GP 패키징, 네임스페이스와 포털 문제 해결 | 2026.01⁠–⁠09 |
+
+<br>
+
+## Side Projects
+
+| 프로젝트 | 한 일 | 기술 |
+|---|---|---|
+| [쇼츠 자동 제작](https://github.com/leeyongha2006/shorts-factory) | 대본, 음성, 영상 생성부터 예약 업로드까지 자동화 | Python, Gemini |
+| [최애친구 랭킹](https://github.com/leeyongha2006/choeae-ranking) | 카카오톡, 인스타그램 대화로 친한 친구 TOP 5 분석 | JavaScript, Claude API |
+| [구독 관리 앱](https://github.com/leeyongha2006/Subscription-Management-App) | 구독 관리, 결제일 알림, 월별 리포트 | React Native, Supabase |
+
+<br>
+
+## School Projects
+
+| 시기 | 분야 | 프로젝트 |
+|:---:|---|---|
+| 2024 | JavaScript | [계산기](https://github.com/leeyongha2006/Calculator) · [캘린더](https://github.com/leeyongha2006/Calendar) · [스톱워치](https://github.com/leeyongha2006/Stopwatch) · [이미지 검색](https://github.com/leeyongha2006/Image-Search-App) · [컬러 피커](https://github.com/leeyongha2006/Color-Picker) · [드럼 키트](https://github.com/leeyongha2006/Drum-Kit) · [주사위 시뮬레이터](https://github.com/leeyongha2006/Dice-Roll-Simulator) · [비밀번호 생성기](https://github.com/leeyongha2006/Random-Password-Generator) · [다크 모드 전환](https://github.com/leeyongha2006/dark-mode-toggle) · [디지털 시계](https://github.com/leeyongha2006/Digital-Clock) · [아날로그 시계](https://github.com/leeyongha2006/Clock) · [랜덤 컬러](https://github.com/leeyongha2006/Random-Color) · [이중 랜딩 페이지](https://github.com/leeyongha2006/double-landing-page) |
+| 2024 | HTML/CSS | [취업맞춤반 방과후 과제](https://github.com/leeyongha2006/2024_get_a_job) |
+| 2023 | Java | [키오스크](https://github.com/leeyongha2006/Javafx-Kiosk) · [백신 예약](https://github.com/leeyongha2006/Vaccine-Reservation-Program) · [지역구 의원 투표](https://github.com/leeyongha2006/Local-Ward-Council-Voting-Program) · [진단 검사](https://github.com/leeyongha2006/diagnostic-test-program) · [회원가입 화면](https://github.com/leeyongha2006/JavaFx-Member) · [숫자 야구](https://github.com/leeyongha2006/java-baseballgame) |
+| 2023 | JSP/DB | [쇼핑몰 회원가입](https://github.com/leeyongha2006/Shoppingamll) · [DB 연결 회원가입](https://github.com/leeyongha2006/DBConnection) · [JSP 첫걸음](https://github.com/leeyongha2006/jsp-first) · [JSP 두걸음](https://github.com/leeyongha2006/Jsp-second) · [SQL 조인](https://github.com/leeyongha2006/DB-SQL-Join) |
+| 2023 | 자료구조 | [이진 트리](https://github.com/leeyongha2006/Java-Binary-Tree) · [선형 구조](https://github.com/leeyongha2006/Java-Linear-structure) |
+| 2023 | HTML | [나이키 소개 사이트](https://github.com/leeyongha2006/html-nike-Intruduce) |
+
+<br>
+
+## Contact
+
+<p>
+  <a href="https://leeyongha2006.github.io"><img src="https://img.shields.io/badge/Portfolio-leeyongha2006.github.io-00A1E0?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" alt="Portfolio" /></a>
+  <a href="mailto:haiyong588@gmail.com"><img src="https://img.shields.io/badge/Email-haiyong588%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Phone-010--4592--9817-555555?style=for-the-badge" height="28" alt="Phone" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,100:0176D3&height=90&section=footer" width="100%" alt="" />
+</p>
