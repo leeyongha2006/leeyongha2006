@@ -58,6 +58,12 @@
 
 ## Salesforce Projects
 
+고3 때 DKBMC에 입사해 Salesforce 개발을 시작했습니다.<br>
+처음에는 업무 화면과 테스트를 맡았고, 사내 솔루션(알림 · 게시판 · 위키)의 고도화와 패키징을 거쳐<br>
+지금은 구매 관리 솔루션의 모듈 분리, AI 에이전트와 MCP 서버까지 맡은 일이 점점 넓어지고 있습니다.
+
+<sub>회사 코드는 공개할 수 없어, 각 저장소에는 정리 문서와 핵심 구조를 직접 다시 구현한 예제 코드를 담았습니다.</sub>
+
 | 프로젝트 | 한 일 | 기간 |
 |---|---|:---:|
 | [SRM 모듈 패키징](https://github.com/leeyongha2006/srm-modular-packaging) | 구매 관리 솔루션을 2GP 패키지 16개로 분리 | 2026.09⁠–⁠10 |
@@ -82,14 +88,18 @@
 
 ## School Projects
 
-| 시기 | 분야 | 프로젝트 |
-|:---:|---|---|
-| 2024 | JavaScript | [계산기](https://github.com/leeyongha2006/Calculator) · [캘린더](https://github.com/leeyongha2006/Calendar) · [스톱워치](https://github.com/leeyongha2006/Stopwatch) · [이미지 검색](https://github.com/leeyongha2006/Image-Search-App) · [컬러 피커](https://github.com/leeyongha2006/Color-Picker) · [드럼 키트](https://github.com/leeyongha2006/Drum-Kit) · [주사위 시뮬레이터](https://github.com/leeyongha2006/Dice-Roll-Simulator) · [비밀번호 생성기](https://github.com/leeyongha2006/Random-Password-Generator) · [다크 모드 전환](https://github.com/leeyongha2006/dark-mode-toggle) · [디지털 시계](https://github.com/leeyongha2006/Digital-Clock) · [아날로그 시계](https://github.com/leeyongha2006/Clock) · [랜덤 컬러](https://github.com/leeyongha2006/Random-Color) · [이중 랜딩 페이지](https://github.com/leeyongha2006/double-landing-page) |
-| 2024 | HTML/CSS | [취업맞춤반 방과후 과제](https://github.com/leeyongha2006/2024_get_a_job) |
-| 2023 | Java | [키오스크](https://github.com/leeyongha2006/Javafx-Kiosk) · [백신 예약](https://github.com/leeyongha2006/Vaccine-Reservation-Program) · [지역구 의원 투표](https://github.com/leeyongha2006/Local-Ward-Council-Voting-Program) · [진단 검사](https://github.com/leeyongha2006/diagnostic-test-program) · [회원가입 화면](https://github.com/leeyongha2006/JavaFx-Member) · [숫자 야구](https://github.com/leeyongha2006/java-baseballgame) |
-| 2023 | JSP/DB | [쇼핑몰 회원가입](https://github.com/leeyongha2006/Shoppingamll) · [DB 연결 회원가입](https://github.com/leeyongha2006/DBConnection) · [JSP 첫걸음](https://github.com/leeyongha2006/jsp-first) · [JSP 두걸음](https://github.com/leeyongha2006/Jsp-second) · [SQL 조인](https://github.com/leeyongha2006/DB-SQL-Join) |
-| 2023 | 자료구조 | [이진 트리](https://github.com/leeyongha2006/Java-Binary-Tree) · [선형 구조](https://github.com/leeyongha2006/Java-Linear-structure) |
-| 2023 | HTML | [나이키 소개 사이트](https://github.com/leeyongha2006/html-nike-Intruduce) |
+> 고등학교 수업과 방과후 과정에서 만든 프로젝트입니다.<br>
+> 지금 보면 부족한 부분이 많지만, 처음 코드를 배우던 때부터 지금까지 어떻게 성장해 왔는지 기록으로 남겨 두고 싶어 함께 정리했습니다.<br>
+> 너그럽게 봐 주시면 감사하겠습니다.
+
+| 시기 | 분야 | 배운 것 | 프로젝트 |
+|:---:|---|---|---|
+| 2024 | JavaScript | DOM 조작, 이벤트 처리, API 호출을 작은 앱으로 반복 연습 | [계산기](https://github.com/leeyongha2006/Calculator) · [캘린더](https://github.com/leeyongha2006/Calendar) · [스톱워치](https://github.com/leeyongha2006/Stopwatch) · [이미지 검색](https://github.com/leeyongha2006/Image-Search-App) · [컬러 피커](https://github.com/leeyongha2006/Color-Picker) · [드럼 키트](https://github.com/leeyongha2006/Drum-Kit) · [주사위 시뮬레이터](https://github.com/leeyongha2006/Dice-Roll-Simulator) · [비밀번호 생성기](https://github.com/leeyongha2006/Random-Password-Generator) · [다크 모드 전환](https://github.com/leeyongha2006/dark-mode-toggle) · [디지털 시계](https://github.com/leeyongha2006/Digital-Clock) · [아날로그 시계](https://github.com/leeyongha2006/Clock) · [랜덤 컬러](https://github.com/leeyongha2006/Random-Color) · [이중 랜딩 페이지](https://github.com/leeyongha2006/double-landing-page) |
+| 2024 | HTML/CSS | 취업맞춤반 방과후 수업에서 웹 화면 구성 | [취업맞춤반 방과후 과제](https://github.com/leeyongha2006/2024_get_a_job) |
+| 2023 | Java | 클래스 설계, JavaFX 화면, DB 연동으로 첫 프로그램 완성 | [키오스크](https://github.com/leeyongha2006/Javafx-Kiosk) · [백신 예약](https://github.com/leeyongha2006/Vaccine-Reservation-Program) · [지역구 의원 투표](https://github.com/leeyongha2006/Local-Ward-Council-Voting-Program) · [진단 검사](https://github.com/leeyongha2006/diagnostic-test-program) · [회원가입 화면](https://github.com/leeyongha2006/JavaFx-Member) · [숫자 야구](https://github.com/leeyongha2006/java-baseballgame) |
+| 2023 | JSP/DB | JSP와 Oracle로 회원가입 같은 웹 기능, SQL 조인 | [쇼핑몰 회원가입](https://github.com/leeyongha2006/Shoppingamll) · [DB 연결 회원가입](https://github.com/leeyongha2006/DBConnection) · [JSP 첫걸음](https://github.com/leeyongha2006/jsp-first) · [JSP 두걸음](https://github.com/leeyongha2006/Jsp-second) · [SQL 조인](https://github.com/leeyongha2006/DB-SQL-Join) |
+| 2023 | 자료구조 | 트리와 선형 구조를 Java로 직접 구현 | [이진 트리](https://github.com/leeyongha2006/Java-Binary-Tree) · [선형 구조](https://github.com/leeyongha2006/Java-Linear-structure) |
+| 2023 | HTML | 처음 만든 웹 페이지 | [나이키 소개 사이트](https://github.com/leeyongha2006/html-nike-Intruduce) |
 
 <br>
 
