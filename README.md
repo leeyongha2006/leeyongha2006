@@ -73,6 +73,7 @@
 
 | 프로젝트 | 한 일 | 기술 |
 |---|---|---|
+| [사주잇](https://github.com/leeyongha2006/sajuit) · [sajuit.me](https://sajuit.me) | AI 사주 운영 서비스(팀). 결제, 인증, 콘텐츠, 관리자 기능 | React, TypeScript, Supabase, Toss Payments |
 | [쇼츠 자동 제작](https://github.com/leeyongha2006/shorts-factory) | 대본, 음성, 영상 생성부터 예약 업로드까지 자동화 | Python, Gemini |
 | [최애친구 랭킹](https://github.com/leeyongha2006/choeae-ranking) | 카카오톡, 인스타그램 대화로 친한 친구 TOP 5 분석 | JavaScript, Claude API |
 | [구독 관리 앱](https://github.com/leeyongha2006/Subscription-Management-App) | 구독 관리, 결제일 알림, 월별 리포트 | React Native, Supabase |
