@@ -4,19 +4,17 @@
 
 <h2><img src="assets/salesforce-cloud.svg" height="24" alt="" /> 안녕하세요, Salesforce 개발자 이용하입니다.</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg" />
-  <img src="assets/intro-light.svg" width="100%" alt="고3 때 개발자로 입사해 학교보다 현장에서 먼저 개발을 배웠습니다. 지금은 기업이 실제로 쓰는 시스템을 만들며 일학습병행으로 일과 공부를 함께하고 있습니다. 회사 밖에서는 직접 서비스를 기획하고 만들어 보며 아이디어를 제품으로 만드는 경험을 쌓고 있습니다." />
-</picture>
+<p><a href="https://leeyongha2006.github.io"><b>포트폴리오 사이트 바로가기 →</b></a>&nbsp; <sub>leeyongha2006.github.io</sub></p>
+
+<img src="assets/intro-light.svg#gh-light-mode-only" width="100%" alt="고3 때 개발자로 입사해 학교보다 현장에서 먼저 개발을 배웠습니다. 지금은 기업이 실제로 쓰는 시스템을 만들며 일학습병행으로 일과 공부를 함께하고 있습니다. 회사 밖에서는 직접 서비스를 기획하고 만들어 보며 아이디어를 제품으로 만드는 경험을 쌓고 있습니다." />
+<img src="assets/intro-dark.svg#gh-dark-mode-only" width="100%" alt="고3 때 개발자로 입사해 학교보다 현장에서 먼저 개발을 배웠습니다. 지금은 기업이 실제로 쓰는 시스템을 만들며 일학습병행으로 일과 공부를 함께하고 있습니다. 회사 밖에서는 직접 서비스를 기획하고 만들어 보며 아이디어를 제품으로 만드는 경험을 쌓고 있습니다." />
 
 <br>
 
 ## About Me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg" />
-  <img src="assets/about-light.svg" width="100%" alt="이용하, 2006.11.08, ISFJ, DKBMC Salesforce 개발자, 동서울대학교 일학습병행" />
-</picture>
+<img src="assets/about-light.svg#gh-light-mode-only" width="100%" alt="이용하, 2006.11.08, ISFJ, DKBMC Salesforce 개발자, 동서울대학교 일학습병행" />
+<img src="assets/about-dark.svg#gh-dark-mode-only" width="100%" alt="이용하, 2006.11.08, ISFJ, DKBMC Salesforce 개발자, 동서울대학교 일학습병행" />
 
 <br>
 
@@ -53,10 +51,8 @@
 
 ## Core Skills
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg" />
-  <img src="assets/skills-light.svg" width="100%" alt="패키지 설계: 솔루션을 2GP 패키지 16개로 나눠 설계. AI 연동: 업무 에이전트와 MCP 서버를 Apex로 구현. 업무 화면: LWC와 Apex로 화면, 권한, 다국어까지 완성. 품질: PRD 작성, E2E 테스트 207개 자동화." />
-</picture>
+<img src="assets/skills-light.svg#gh-light-mode-only" width="100%" alt="패키지 설계: 솔루션을 2GP 패키지 16개로 나눠 설계. AI 연동: 업무 에이전트와 MCP 서버를 Apex로 구현. 업무 화면: LWC와 Apex로 화면, 권한, 다국어까지 완성. 품질: PRD 작성, E2E 테스트 207개 자동화." />
+<img src="assets/skills-dark.svg#gh-dark-mode-only" width="100%" alt="패키지 설계: 솔루션을 2GP 패키지 16개로 나눠 설계. AI 연동: 업무 에이전트와 MCP 서버를 Apex로 구현. 업무 화면: LWC와 Apex로 화면, 권한, 다국어까지 완성. 품질: PRD 작성, E2E 테스트 207개 자동화." />
 
 <br>
 
