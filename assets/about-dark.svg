@@ -2,15 +2,15 @@
 <style>
   .name { font: 800 30px Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', 'Segoe UI', sans-serif; fill: #e6edf3; letter-spacing: -.5px; }
   .en { font: 600 15px Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', 'Segoe UI', sans-serif; fill: #8b949e; }
-  .role { font: 700 14px Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', 'Segoe UI', sans-serif; fill: #4cc9f0; }
+  .role { font: 700 13px Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', 'Segoe UI', sans-serif; fill: #4cc9f0; }
   .k { font: 700 13px Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', 'Segoe UI', sans-serif; fill: #8b949e; }
   .v { font: 700 16px Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', 'Segoe UI', sans-serif; fill: #e6edf3; }
 </style>
 <rect x=".5" y=".5" width="847" height="199" rx="16" fill="#0d1117" stroke="#30363d"/>
-<circle cx="88" cy="100" r="56" fill="#10243a"/>
-<path transform="translate(55 76) scale(1.3)" fill="#00A1E0" d="M20.8 4.3c1.6-1.7 3.9-2.7 6.4-2.7 3.3 0 6.2 1.8 7.7 4.6 1.3-.6 2.8-.9 4.3-.9 6 0 10.8 4.8 10.8 10.8s-4.8 10.8-10.8 10.8c-.7 0-1.5-.1-2.2-.2-1.4 2.4-3.9 4-6.9 4-1.2 0-2.4-.3-3.4-.8-1.3 3.1-4.4 5.2-7.9 5.2-3.7 0-6.9-2.4-8.1-5.7-.5.1-1.1.2-1.7.2C2.7 29.6 0 25.7 0 21.9c0-2.6 1.4-4.9 3.4-6.2-.4-1-.7-2.1-.7-3.3C2.7 8 6.4 4.4 10.9 4.4c2.6 0 5 1.2 6.6 3.2"/>
-<text x="166" y="88" class="name">이용하</text>
-<text x="168" y="114" class="en">Lee Yong Ha</text>
-<text x="168" y="140" class="role">Salesforce Developer</text>
+<circle cx="80" cy="100" r="48" fill="#10243a"/>
+<path transform="translate(52 80) scale(1.1)" fill="#00A1E0" d="M20.8 4.3c1.6-1.7 3.9-2.7 6.4-2.7 3.3 0 6.2 1.8 7.7 4.6 1.3-.6 2.8-.9 4.3-.9 6 0 10.8 4.8 10.8 10.8s-4.8 10.8-10.8 10.8c-.7 0-1.5-.1-2.2-.2-1.4 2.4-3.9 4-6.9 4-1.2 0-2.4-.3-3.4-.8-1.3 3.1-4.4 5.2-7.9 5.2-3.7 0-6.9-2.4-8.1-5.7-.5.1-1.1.2-1.7.2C2.7 29.6 0 25.7 0 21.9c0-2.6 1.4-4.9 3.4-6.2-.4-1-.7-2.1-.7-3.3C2.7 8 6.4 4.4 10.9 4.4c2.6 0 5 1.2 6.6 3.2"/>
+<text x="148" y="88" class="name">이용하</text>
+<text x="150" y="114" class="en">Lee Yong Ha</text>
+<text x="150" y="140" class="role">Salesforce · Web Developer</text>
 <g transform="translate(336 28)"><rect width="240" height="70" rx="12" fill="#161b22" stroke="#30363d"/><text x="18" y="27" class="k">생년월일</text><text x="18" y="52" class="v">2006.11.08</text></g><g transform="translate(592 28)"><rect width="240" height="70" rx="12" fill="#161b22" stroke="#30363d"/><text x="18" y="27" class="k">MBTI</text><text x="18" y="52" class="v">ISFJ</text></g><g transform="translate(336 110)"><rect width="240" height="70" rx="12" fill="#161b22" stroke="#30363d"/><text x="18" y="27" class="k">소속</text><text x="18" y="52" class="v">DKBMC 재직 중</text></g><g transform="translate(592 110)"><rect width="240" height="70" rx="12" fill="#161b22" stroke="#30363d"/><text x="18" y="27" class="k">학력</text><text x="18" y="52" class="v">동서울대학교 · 일학습병행</text></g>
 </svg>
