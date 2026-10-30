@@ -63,7 +63,7 @@
 
 > 고3 때 DKBMC에 Salesforce 개발자로 입사했습니다.<br>
 > 첫 업무로 OData 4.0 작업을 시작했고, 이어서 SRM 공급자 등록 요청을 개발한 뒤 SRM 전체를 맡게 되었습니다.<br>
-> 그 과정에서 반도체 제조 고객사 구축, 사내 솔루션 고도화와 패키징, AI 에이전트와 MCP 서버까지 경험하며 역량을 넓혀 가고 있습니다.<br>
+> 그 과정에서 반도체 · 프랜차이즈 고객사 구축, 교육 솔루션 AI, 사내 솔루션 고도화와 패키징, AI 에이전트와 MCP 서버까지 경험하며 역량을 넓혀 가고 있습니다.<br>
 > <sub>회사 코드는 공개할 수 없어, 각 저장소에는 정리 문서와 핵심 구조를 직접 다시 구현한 예제 코드를 담았습니다.</sub>
 
 #### SRM · 구매 관리 솔루션 <sub>2025 – 진행 중 · 전체 담당</sub>
@@ -85,6 +85,18 @@
 | [AI 예측 분석 리포트](https://github.com/leeyongha2006/semiconductor-forecast-salesforce) | Agentforce · Einstein 프롬프트로 예측 버전 비교 리포트, PDF 출력 |
 | [생산계획 대비 실적](https://github.com/leeyongha2006/semiconductor-forecast-salesforce) | 달성률 · 변동률 자동 계산, CSV 업로드 |
 | [AWS 연동](https://github.com/leeyongha2006/semiconductor-forecast-salesforce) | Python Lambda로 매일 뉴스 수집 · 요약(JWT Bearer, Secrets Manager), S3 파일 연동 |
+
+#### 프랜차이즈 기업 고객사 구축 <sub>2026</sub>
+
+| 영역 | 한 일 |
+|---|---|
+| [전자동의 · 전자동의 현황](https://github.com/leeyongha2006/franchise-econsent-salesforce) | 가맹점 포털 전자동의 발행, 가맹점 · 가맹점주 기준 동의율 대시보드, 미입력 판별, 엑셀 내보내기 |
+
+#### 교육(LMS) 솔루션 AI <sub>2026</sub>
+
+| 영역 | 한 일 |
+|---|---|
+| [AI 학습 상담 · 코칭](https://github.com/leeyongha2006/lms-ai-coaching-azure) | Azure AI Foundry Prompt Flow 4종으로 학습 상담 챗봇, 학습 추천 패널, 영업 상담 코칭, 슬라이드 대본 생성 |
 
 #### 사내 솔루션 <sub>2026.01 – 09</sub>
 
