@@ -32,8 +32,13 @@
 
 #### AI
 
-<p><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/GPT-10A37F?style=for-the-badge" alt="GPT" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" /><br>
+<p><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/GPT-10A37F?style=for-the-badge" alt="GPT" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" /> <img src="https://img.shields.io/badge/MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" /><br>
 <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge" alt="Azure OpenAI" /> <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge" alt="Azure AI Foundry" /> <img src="https://img.shields.io/badge/Document_Intelligence-0078D4?style=for-the-badge" alt="Document Intelligence" /></p>
+
+#### AI 콘텐츠 · 마케팅
+
+<p><img src="https://img.shields.io/badge/Higgsfield-111111?style=for-the-badge" alt="Higgsfield" /> <img src="https://img.shields.io/badge/fal.ai_API-6D28D9?style=for-the-badge" alt="fal.ai API" /> <img src="https://img.shields.io/badge/Claude_Skills_%C2%B7_Connectors-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Skills · Connectors" /><br>
+<img src="https://img.shields.io/badge/Instagram_Reels-E4405F?style=for-the-badge" alt="Instagram Reels" /> <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></p>
 
 #### Frontend
 
@@ -82,7 +87,7 @@
 
 | 프로젝트 | 한 일 | 기술 |
 |---|---|---|
-| [사주잇](https://github.com/leeyongha2006/sajuit) · [sajuit.me](https://sajuit.me) | AI 사주 운영 서비스(팀). 결제 · 인증 · 콘텐츠 개발부터 광고 영상, 마케팅까지 대부분 담당 | React, TypeScript, Supabase, Toss Payments |
+| [사주잇](https://github.com/leeyongha2006/sajuit) · [sajuit.me](https://sajuit.me) | AI 사주 운영 서비스(팀). 결제 · 인증 · 콘텐츠 개발부터 AI 광고 영상, 릴스 · 스레드 마케팅까지 대부분 담당 | React, TypeScript, Supabase, Toss Payments |
 | 쇼츠 자동 제작 <sub>(비공개 · 운영 중)</sub> | 대본, 음성, 영상 생성부터 예약 업로드까지 자동화 | Python, Gemini |
 | [최애친구 랭킹](https://github.com/leeyongha2006/choeae-ranking) | 카카오톡, 인스타그램 대화로 친한 친구 TOP 5 분석 | JavaScript, Claude API |
 | 구독 관리 앱 <sub>(비공개)</sub> | 구독 관리, 결제일 알림, 월별 리포트 | React Native, Supabase |
