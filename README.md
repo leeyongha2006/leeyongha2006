@@ -77,6 +77,9 @@
 
 ## Side Projects
 
+퇴근 후와 주말에는 평소 써 보고 싶던 기술로 직접 서비스를 만들어 보고 있습니다.<br>
+아이디어에서 끝내지 않고 기획부터 개발, 배포, 운영까지 혼자 또는 팀으로 끝까지 해 보는 것을 목표로 합니다.
+
 | 프로젝트 | 한 일 | 기술 |
 |---|---|---|
 | [사주잇](https://github.com/leeyongha2006/sajuit) · [sajuit.me](https://sajuit.me) | AI 사주 운영 서비스(팀). 결제, 인증, 콘텐츠, 관리자 기능 | React, TypeScript, Supabase, Toss Payments |
