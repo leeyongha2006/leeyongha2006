@@ -84,7 +84,7 @@
 | [수요 · 장비 가동률 예측](https://github.com/leeyongha2006/semiconductor-forecast-salesforce) | 수요 예측 엑셀로 장비별 생산능력 · 가동률 계산, 최대 9,000행 처리, Chart.js 복합 차트 |
 | [AI 예측 분석 리포트](https://github.com/leeyongha2006/semiconductor-forecast-salesforce) | Agentforce · Einstein 프롬프트로 예측 버전 비교 리포트, PDF 출력 |
 | [생산계획 대비 실적](https://github.com/leeyongha2006/semiconductor-forecast-salesforce) | 달성률 · 변동률 자동 계산, CSV 업로드 |
-| [AWS 연동](https://github.com/leeyongha2006/semiconductor-forecast-salesforce) | Python Lambda로 매일 뉴스 수집 · 요약(JWT Bearer, Secrets Manager), S3 파일 연동 |
+| [AWS 연동](https://github.com/leeyongha2006/semiconductor-forecast-salesforce) | 뉴스 메일 수신 · 배치 재처리 → Python Lambda 요약, 프로젝트 요약 PPT를 Lambda로 파싱해 필드 자동 반영, S3 파일 자동 연결 |
 
 #### 프랜차이즈 기업 고객사 구축 <sub>2026</sub>
 
